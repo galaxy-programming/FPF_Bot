@@ -1,0 +1,8 @@
+# Prerequisites: Node.JS, Your Favorite Text Editor
+
+
+How to install this bot for it to work in your server, this bot could be used in all sorts of types of servers, not just specifically our server.
+It is a moderation/fun/music bot. 
+
+How to install: Create a folder using CMD: "cd C:\Users\<your profile>\Desktop & mkdir <folder name>, then run "npm init", and then install Discord using "npm i discord.js --save".
+And to use a script that restarts your bot after saving: "npm i -g nodemon", and you should be done!
